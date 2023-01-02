@@ -5,7 +5,7 @@
 
 int main()
 {
-    int nota1 = 2, nota2= 10;
+    int nota1 = 2, nota2 = 10;
     int diferenca = nota1 - nota2;
 
     printf("O valor absoluto e %d", abs(diferenca));
