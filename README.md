@@ -5,4 +5,4 @@
 O intuito é fazer uma revisão do conteúdo da disciplina **Programação 1** da faculdade <br>
 e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
 
-- Link do repositório de Programação 1: [link_prog1](https://github.com/luizakuze/Prog1)
+- Link do repositório de Programação 1: [link_Prog1](https://github.com/luizakuze/Prog1)
