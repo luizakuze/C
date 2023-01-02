@@ -1,6 +1,6 @@
 ## Estudo_em_C 📚💻
 
-🏖 Esse está sendo o meu estudo em C nas férias! 🏖 <br>
+🏖 Esse está sendo o meu estudo da linguagem C nas férias! 🏖 <br>
 
 O intuito é fazer uma revisão do conteúdo da disciplina **Programação 1** da faculdade <br>
 e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
