@@ -4,7 +4,7 @@
 
 int main()
 {
-    //Responsavel por alimentar o rand de fomra diferente
+    //Responsavel por alimentar o rand de forma diferente
     srand((unsigned) time(NULL)); //unsigned int ==> um INT positivo; time ==> algum tempo do computador que esta rodando na memoria
 
     //Variavel para receber o resto da divisao do numero por 3 (aleatorio entre 0 e 2)
