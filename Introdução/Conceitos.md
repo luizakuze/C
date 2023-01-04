@@ -4,7 +4,7 @@ O hardware é a parte física da máquina, é o que dá de tocar. <br> O
 software é a parte do sistema em si, como os programas e aplicativos.
 <br>
 
-- Algoritimo: <br>
+- Algorítimo: <br>
 É uma sequência de comandos. O algoritmo é como uma receita de bolo, <br>
 a qual são seguidos os passos da receita para conseguir fazer o bolo.
 <br>
