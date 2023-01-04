@@ -12,5 +12,5 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - Introdução: Conceitos de programação.
 - Variáveis: Locais de armazemento de dados do programa.
 - Condicionais: Ferramentas para construir expressões.
-- Laços de Repetição: Delcarações com o trabalho de repetir alguma intrução.
+- Laços de Repetição: Declarações com o trabalho de repetir alguma intrução.
 - Vetores, Strings e Matrizes: Formas de criar coleções de variáveis.
