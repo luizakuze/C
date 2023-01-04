@@ -8,7 +8,7 @@ int main()
     // Criar a string
     char string [255];
 
-    // Instrução
+    // Instrução e Leitura de dados pra dentro da string
     printf("Digite uma palavra:\n");
     scanf("%s", &string);
 
