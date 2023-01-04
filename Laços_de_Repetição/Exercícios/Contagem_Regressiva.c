@@ -1,6 +1,6 @@
 /* O programa faz a contagem regressiva de 10 a 0.
-O programa foi contruído com 3 alternativas: "While", "Do While" ou com o "For".
- Basta escolher 1 deles e comentar os outros 2 para ver o funcionamento. */
+O programa foi construído de 3 maneiras: "While", "Do While" ou com o "For".
+Basta escolher 1 deles e comentar os outros 2 para ver o funcionamento. */
 
 #include <stdio.h>
 
