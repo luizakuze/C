@@ -12,6 +12,7 @@ int main()
     printf("Digite uma palavra:\n");
     scanf("%s", &string);
 
+    // Imprimindo a string
     printf("%s\n", string);
 
     return 0;
