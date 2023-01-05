@@ -2,8 +2,8 @@
 
 ### Esse está sendo o meu estudo da linguagem C nas férias! 2022/2023 🏖 <br>
 
-O intuito é fazer uma revisão do conteúdo da disciplina **Programação 1** da faculdade <br>
-e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
+O objetivo desse repositório é fazer uma revisão do conteúdo da disciplina **Programação 1** <br>
+da faculdade e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
 
 Link do repositório de Programação 1: [link_Prog1](https://github.com/luizakuze/Prog1)
 
