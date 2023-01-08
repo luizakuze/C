@@ -1,3 +1,5 @@
+# Exemplo 1
+```
 #include <stdio.h>
 #include <stdlib.h>
  
@@ -29,3 +31,6 @@ int main(){
     //Retorno da Função
     return 0;
 }
+```
+
+# Exemplo 2
