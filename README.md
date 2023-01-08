@@ -14,3 +14,4 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - Condicionais: Ferramentas para construir expressões.
 - Laços de Repetição: Declarações com o trabalho de repetir alguma intrução.
 - Vetores, Strings e Matrizes: Formas de criar coleções de variáveis.
+- Conceitos em C++: Introdução a linguagem C++.
