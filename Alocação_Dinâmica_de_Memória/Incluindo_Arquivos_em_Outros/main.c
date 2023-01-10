@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funcoes.h"
+#include "funcoes.h" // ==> entre aspas duplas, pois o arquivo é do próprio pc
 
 int main ()
 {
