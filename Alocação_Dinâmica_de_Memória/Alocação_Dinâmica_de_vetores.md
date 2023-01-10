@@ -1,3 +1,5 @@
+## Em C
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -44,3 +46,30 @@ int main ()
 
     return 0;
 }
+```
+
+## Em C++
+```
+#include <stdio.h>
+#include <new>
+
+int main ()
+{
+    // Definindo variáveis
+    int tamanho, i;
+
+    // Lendo o tamanho
+    printf("Digite o tamanho:\n");
+    scanf("%d", &tamanho);
+
+    //Criando um ponteiro que recebe um novo vetor vazio
+    int *vetor = new int (tamanho);
+
+    //Modificando e Imprimindo Valores
+    for (i = 0; i < tamanho; i++){
+        vetor[i] = i;
+        printf("\n%d", vetor[i]);
+    }
+    return 0;
+}
+```
