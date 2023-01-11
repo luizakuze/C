@@ -44,8 +44,8 @@ int main ()
 
 using namespace std;
 
-int main () {
-
+int main ()
+{
     //Dizer qual arquivo será lido
     ifstream input("Texto.txt");
 
