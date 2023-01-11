@@ -17,3 +17,4 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - Conceitos_em_C++: Introdução à linguagem C++.
 - Alocação_Dinâmica_de_Memória: Solicita áreas de memória do sistema operacional, usa e depois as libera.
 - Struct: Tipo de dado que agrupa diferentes tipos de variáveis.
+- Arquivos_Externos: Escrita e leitura em arquivos externos.
