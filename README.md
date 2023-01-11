@@ -7,8 +7,12 @@ da faculdade e adiantar a matéria da disciplina subsequente, na qual será apre
 
 Link do repositório de Programação 1: [link_Prog1](https://github.com/luizakuze/Prog1)
 
+---
+
 ### Diretórios 📚
 
+#### Seção 1 - Fundamentos Teóricos
+ 
 - Introdução: Conceitos de programação.
 - Variáveis: Locais de armazemento de dados do programa.
 - Condicionais: Ferramentas para construir expressões.
@@ -18,3 +22,5 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - Alocação_Dinâmica_de_Memória: Solicita áreas de memória do sistema operacional, usa e depois as libera.
 - Struct: Tipo de dado que agrupa diferentes tipos de variáveis.
 - Arquivos_Externos: Escrita e leitura em arquivos externos.
+
+#### Seção 2 - Estruturas de Dados
