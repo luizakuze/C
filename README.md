@@ -24,3 +24,4 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - Arquivos_Externos: Escrita e leitura em arquivos externos.
 
 #### Seção 2 - Estruturas de Dados
+-Introdução_Estruturas: Parte inicial das estruturas de dados.
