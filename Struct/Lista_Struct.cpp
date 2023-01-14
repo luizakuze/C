@@ -11,7 +11,8 @@ struct fruta{
     string nome;
 };
  
-int main () {
+int main ()
+{
  
     //Criando um ponteiro para o struct criado
     fruta *primeiraFruta = new fruta;
@@ -32,7 +33,7 @@ int main () {
     ponteiroListaDeFrutas[1].cor = "Verde";
     ponteiroListaDeFrutas[1].nome = "Kiwi";
  
-    //Percorrendo e exibingo
+    //Percorrendo e exibindo
     int cont;
     for(cont = 0; cont < 2; cont++){
          //Exibindo Valores
