@@ -25,3 +25,4 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 
 #### Seção 2 - Estruturas de Dados
 - **Introdução_Estruturas:** Parte inicial das estruturas de dados.
+- **Pilhas:**  LIFO (last-in first-out), onde o último elemento a ser inserido, será o primeiro a ser retirado.
