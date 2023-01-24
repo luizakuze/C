@@ -30,7 +30,7 @@ void pilha_push (int pilha[TAM], int valor, int *topo)
 int main ()
 {
     int pilha[TAM] = {0,0,0,0,0,0,0,0,0,0};
-    int topo = -1;           // topo da pilha
+    int topo = -1;           // topo da pilha (-1 significa que não tem nada na pilha
 
     imprime_vetor(pilha);
 
