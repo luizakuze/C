@@ -10,8 +10,8 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 ---
 
 ### Diretórios 📚
-
-#### Seção 1 - Fundamentos Teóricos
+ 
+ ### Lógica de Programação 
  
 - **Introdução:** Conceitos de programação.
 - **Variáveis:** Locais de armazemento de dados do programa.
@@ -23,7 +23,8 @@ Link do repositório de Programação 1: [link_Prog1](https://github.com/luizaku
 - **Struct:** Tipo de dado que agrupa diferentes tipos de variáveis.
 - **Arquivos_Externos:** Escrita e leitura em arquivos externos.
 
-#### Seção 2 - Estruturas de Dados
+### Estrutura de Dados
+
 - **Introdução_Estruturas:** Parte inicial das estruturas de dados.
 - **Pilhas:**  LIFO (last-in first-out), onde o último elemento a ser inserido, será o primeiro a ser retirado.
 - **Filas:** FIFO (first-in first-out), onde o primeiro elemento a ser inserido é o primeiro a ser retirado.
