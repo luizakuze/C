@@ -1,11 +1,10 @@
-# Estudo_em_C 💻✨
+# C 💻✨
 
 ### Esse está sendo o meu estudo da linguagem C nas férias! 2022 🏖 <br>
 
 O objetivo desse repositório é fazer uma revisão do conteúdo da disciplina **Programação 1** <br>
 da faculdade e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
 
----
 
 ## Diretórios 📚
  
