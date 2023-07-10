@@ -5,7 +5,6 @@
 O objetivo desse repositório é fazer uma revisão do conteúdo da disciplina **Programação 1** <br>
 da faculdade e adiantar a matéria da disciplina subsequente, na qual será apresentado o C++
 
-
 ## Diretórios 📚
  
 ### Lógica de Programação 
@@ -13,7 +12,7 @@ da faculdade e adiantar a matéria da disciplina subsequente, na qual será apre
 - **Introdução:** Conceitos de programação.
 - **Variáveis:** Locais de armazemento de dados do programa.
 - **Condicionais:** Ferramentas para construir expressões.
-- **Laços de Repetição:** Declarações com o trabalho de repetir alguma intrução.
+- **Laços de Repetição:** Declarações com o trabalho de repetir alguma instrução.
 - **Vetores Strings Matrizes:** Formas de criar coleções de variáveis.
 - **Conceitos em C++:** Introdução à linguagem C++.
 - **Alocação Dinâmica de Memória:** Solicita áreas de memória do sistema operacional, usa e depois as libera.
@@ -22,6 +21,6 @@ da faculdade e adiantar a matéria da disciplina subsequente, na qual será apre
 
 ### Estrutura de Dados
 
-- **Introdução_Estruturas:** Parte inicial das estruturas de dados.
+- **Introdução Estruturas:** Parte inicial das estruturas de dados.
 - **Pilhas:**  LIFO (last-in first-out), onde o último elemento a ser inserido, será o primeiro a ser retirado.
 - **Filas:** FIFO (first-in first-out), onde o primeiro elemento a ser inserido é o primeiro a ser retirado.
