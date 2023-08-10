@@ -1,4 +1,4 @@
-# C 💻✨
+# C - Estudo da lingugagem 💻✨
 
 ### Esse está sendo o meu estudo da linguagem C nas férias! 2022 🏖 <br>
 
